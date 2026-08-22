@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "VJA_Portfolio/1.0.0": {
+        "runtime": {
+          "VJA_Portfolio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VJA_Portfolio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
